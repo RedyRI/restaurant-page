@@ -38,7 +38,7 @@ const imgCont = document.createElement('div');
 imgCont.classList.add('presentation__image-cont');
 const img =  document.createElement('img');
 img.classList.add('img');
-img.setAttribute('src','./src/images/burger.png')
+img.setAttribute('src','../src/images/burger.png')
 imgCont.appendChild(img);
 presentation.appendChild(imgCont);
 const wave1 = document.createElement('svg');

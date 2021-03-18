@@ -10,7 +10,7 @@ link.setAttribute('href', 'https://github.com/RedyRI/restaurant-page')
 link.setAttribute('target','_blank')
 const img = document.createElement('img');
 link.appendChild(img)
-img.setAttribute('src','./src/images/github.png')
+img.setAttribute('src','../src/images/github.png')
 github.appendChild(link)
 footer.appendChild(info);
 footer.appendChild(github);
