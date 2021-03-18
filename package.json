@@ -1,0 +1,35 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedyRI/restaurant-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedyRI/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/RedyRI/restaurant-page#readme",
+  "devDependencies": {
+    "apply-loader": "^2.0.0",
+    "css-loader": "^5.1.2",
+    "html-webpack-plugin": "^5.3.1",
+    "img-loader": "^3.0.2",
+    "less": "^4.1.1",
+    "less-loader": "^8.0.0",
+    "pug": "^3.0.2",
+    "pug-loader": "^2.4.0",
+    "style-loader": "^2.0.0",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.25.0",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
